@@ -68,5 +68,6 @@
 
 * 정준영(경희대학교 전자전파공학과, 컴퓨터공학과 12학번)
 * 연락: jjy920517@gmail.com, [github](https://github.com/sauber92), [Facebook](https://www.facebook.com/profile.php?id=100003258917365), [Blog](https://sauber92.github.io/)  
+* License: [MIT License](https://github.com/KHU-MARO/2016-Programming-education/edit/master/LICENSE)
 
 > 수정사항이나 추가 자료가 필요하면 연락주세요
